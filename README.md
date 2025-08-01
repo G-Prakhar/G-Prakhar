@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prakhar Gupta
 - 👀 I’m interested in new emerging technologies like AI/ML, Blockchain & Quantum Computing
 - 🌱 I’m currently learning Machine Learning and its algorithms
-- 💞️ I’m looking to collaborate on whatever project whether it matches my interest or not
+- 💞️ I’m looking to collaborate on projects whether it matches my interest or not
 - 📫 Anybody can reach me through my e-mail -> prak.gupt1948@gmail.com
 - 😄 Pronouns: He/Him 👨‍🎓
 - ⚡ Fun fact: "I’m a work in progress, but no algorithm can predict my next move 😁"
